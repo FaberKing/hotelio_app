@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476086399204",
+    "project_id": "course-hotelio-5b501",
+    "storage_bucket": "course-hotelio-5b501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476086399204:android:a00d2fc8d2184492287cf1",
+        "android_client_info": {
+          "package_name": "com.courapp_hotelio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476086399204-03dkn8kifl7os9oqacvaef140jd15o4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoyIxskeIyPZovp_b5aoTQSMz2Nm3IWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476086399204-03dkn8kifl7os9oqacvaef140jd15o4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
